@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-scm3110-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scm3110)
 [![Portfolio](https://img.shields.io/badge/Portfolio-scm3110.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://scm3110.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-sebastiancm200812-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastiancm200812@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Medellín,_Colombia-FFCD00?style=for-the-badge)](https://www.google.com/maps/place/Medell%C3%ADn)
+[![Medellín](https://img.shields.io/badge/Medellín,_Colombia-FFCD00?style=for-the-badge&logo=googlemaps&logoColor=black)](https://www.google.com/maps/place/Medell%C3%ADn,+Antioquia/)
 
 </div>
 
