@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hola, soy Sebastián Ceballos Mazo 👋
-### Desarrollador de Software | Backend · Full-Stack · AI-Augmented Dev
+### Desarrollador de Software en formación | arquitectura, full stack , inteligencia artificial son las áreas que me gustan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-scm3110-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scm3110)
 [![Portfolio](https://img.shields.io/badge/Portfolio-scm3110-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scm3110)
